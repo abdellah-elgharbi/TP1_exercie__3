@@ -81,7 +81,7 @@ Les contributions sont ouvertes. Si vous avez des idées d'améliorations ou des
 
 ## **Auteur**
 
-Développé par **[Votre Nom]** dans le cadre d'un exercice de développement d'applications Android.
+Développé par **El gharbi abdellah** dans le cadre d'un exercice de développement d'applications Android.
 
 ---
 
