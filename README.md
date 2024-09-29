@@ -1,5 +1,5 @@
 ﻿# TP1_exercie__3
-Voici une description pour le fichier `README.md` de votre application mobile qui permet de récupérer les réponses des utilisateurs et de naviguer vers un autre écran pour afficher les résultats :
+
 
 ---
 
